@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ali and I'm a Web Developer, from Abbottabad.</h2>
+<h2 align="left">Hi 👋! My name is Ali and I'm a Web Developer, from Sheikhupura.</h2>
 
 ###
 
